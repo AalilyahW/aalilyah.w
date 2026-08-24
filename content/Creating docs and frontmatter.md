@@ -30,7 +30,7 @@ This additional information is added as YAML frontmatter and placed between a pa
 > *If you use Obsidian to edit your Markdown docs, YAML frontmatter is referred to as `Properties` or `File properties`*.
 ### Supported frontmatter
 
-The knowledge base docs website is powered by [Quartz](https://quartz.jzhao.xyz/, a static-site generator for turning Markdown docs into websites.
+The knowledge base docs website is powered by [Quartz] https://quartz.jzhao.xyz/ a static-site generator for turning Markdown docs into websites.
 
 #### Common frontmatter fields
 
