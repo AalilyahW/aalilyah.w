@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: AalilyahW Knowledge Base Docs Website
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Welcome to my digital workspace! This knowledge base explores digital design, graphic illustration, and traditional studio painting techniques on canvas.
 
 ## Editing pages
 
