@@ -20,8 +20,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: 'true'
+          submodules: 'fetch-depth: 0 # Fetch all history'
           fetch-depth: 0 # Fetch all history
+          - name: Update submodules
+            run: git submodule update --remote --recursive
       - name: Apply configurations
         run: |
           cp quartz.config.ts quartz.layout.ts quartz
