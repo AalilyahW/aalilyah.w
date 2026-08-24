@@ -1,20 +1,17 @@
 ---
-title: Category 02
+title: Traditional Canvas & Painting Mediums
 ---
-## The Category 02 category index page
+## Traditional Canvas & Painting Mediums
 
 ### What is this page?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+This section focuses on the physical components, studio preparation, and mechanics of traditional painting.
+
 
 On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
 
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[content/This section explores the core differences, advantages, and trade-offs between creating artwork digitally on a tablet versus painting directly on a traditional canvas.  Digital Drawing & Illustration/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
+### Naming a category page's index due to key focus areas
+* **Canvas & Surface Preparation**: Selecting canvas types (cotton duck vs. linen), stretching canvas, and applying gesso ground coats.
+* **Paint Chemistry & Mediums**: Understanding binder differences, drying times, and viscosity across acrylics, oil paints, and watercolors.
+* **Studio Constraints & Logistics**: Managing physical workspace requirements, ventilation, physical storage, and equipment cleanup.
+* ** Techniques**: Varnishing, impasto layer building, brush selection, and physical color mixing strategies.
