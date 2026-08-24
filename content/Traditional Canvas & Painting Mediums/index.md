@@ -14,4 +14,4 @@ On your local computer, this page corresponds to the file path: `Traditional Can
 * **Canvas & Surface Preparation**: Selecting canvas types (cotton duck vs. linen), stretching canvas, underpainting, and applying gesso ground coats.
 * **Paint Chemistry & Mediums**: Understanding binder differences, drying times, and viscosity across acrylics, oil paints, and watercolors.
 * **Studio Constraints & Logistics**: Managing physical workspace requirements, ventilation, physical storage, and equipment cleanup.
-* ** Techniques**: Varnishing, impasto layer building, brush selection, and physical color mixing strategies.
+* **Techniques**: Varnishing, impasto layer building, brush selection, and physical color mixing strategies.
