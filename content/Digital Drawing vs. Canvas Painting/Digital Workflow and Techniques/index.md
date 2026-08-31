@@ -1,0 +1,1 @@
+Digital sketching, non-destructive editing, color pickers, blend modes, and export settings for print/web.

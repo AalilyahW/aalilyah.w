@@ -1,0 +1,1 @@
+Stretched cotton/linen canvases, wood panels, gesso preparation, physical brushes, palettes, and solvents.
