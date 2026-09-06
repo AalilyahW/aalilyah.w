@@ -17,4 +17,4 @@ On your local computer, this page corresponds to the file path: `Digital Drawing
 
 ## Related Categories
 
-Digital illustration tools and software complement classical studio methods. Read more in [[traditional-canvas-and-painting-mediums/index|Traditional Canvas & Painting Mediums]].
+Digital illustration tools and software complement classical studio methods. Read more in [[Traditional Canvas & Painting Mediums/index|Traditional Canvas & Painting Mediums]]. 
