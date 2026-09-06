@@ -15,3 +15,7 @@ On your local computer, this page corresponds to the file path: `Traditional Can
 * **Paint Chemistry & Mediums**: Understanding binder differences, drying times, and viscosity across acrylics, oil paints, and watercolors.
 * **Studio Constraints & Logistics**: Managing physical workspace requirements, ventilation, physical storage, and equipment cleanup.
 * **Techniques**: Varnishing, impasto layer building, brush selection, and physical color mixing strategies.
+
+## Related Categories
+
+Traditional canvas techniques lay the foundational principles for modern digital illustration. Read more in [[digital-drawing-vs-canvas-painting/index|Digital Drawing vs. Canvas Painting]].

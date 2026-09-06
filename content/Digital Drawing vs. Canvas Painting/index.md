@@ -1,7 +1,7 @@
 ---
 title: Digital Drawing vs. Canvas Painting
 ---
-## Digital Drawing vs. Canvas Painting
+# Digital Drawing vs. Canvas Painting
 
 ### What is this page?
 
@@ -14,3 +14,7 @@ On your local computer, this page corresponds to the file path: `Digital Drawing
 * **Workflow & Affordances**: Analyzing non-destructive digital workflows (layers, undo/redo, instant color adjustments) versus physical constraints (drying time, paint mixing, physical space, and cleanup).
 * **Texture & Rendering**: Simulating natural media textures digitally versus building actual physical impasto, paint viscosity, and canvas grain.
 * **Color Systems**: Working in digital RGB color spaces for screen display versus mixing physical pigments in CMYK/subtractive color environments.
+
+## Related Categories
+
+Digital illustration tools and software complement classical studio methods. Read more in [[traditional-canvas-and-painting-mediums/index|Traditional Canvas & Painting Mediums]].
