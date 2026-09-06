@@ -18,4 +18,4 @@ On your local computer, this page corresponds to the file path: `Traditional Can
 
 ## Related Categories
 
-Traditional canvas techniques lay the foundational principles for modern digital illustration. Read more in [[digital-drawing-vs-canvas-painting/index|Digital Drawing vs. Canvas Painting]].
+Traditional canvas techniques lay the foundational principles for modern digital illustration. Read more in [[/Digital Drawing vs. Canvas Painting/index|Digital Drawing vs. Canvas Painting]] .
