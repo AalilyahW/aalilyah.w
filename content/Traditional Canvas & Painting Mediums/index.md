@@ -19,3 +19,13 @@ On your local computer, this page corresponds to the file path: `Traditional Can
 ## Related Categories
 
 Traditional canvas techniques lay the foundational principles for modern digital illustration. Read more in [[/Digital Drawing vs. Canvas Painting/index|Digital Drawing vs. Canvas Painting]] .
+
+# Traditional Canvas & Painting Mediums
+
+Welcome to the traditional studio arts section. Explore the topics below to learn about studio practices, mediums, and preservation techniques:
+
+- [[/Traditional Canvas & Painting Mediums/oil-painting-basics|Oil Painting Basics]]
+- [[/Traditional Canvas & Painting Mediums/acrylic-techniques|Acrylic Techniques]]
+- [[/Traditional Canvas & Painting Mediums/canvas-types-and-surfaces|Canvas Types and Surfaces]]
+- [[/Traditional Canvas & Painting Mediums/essential-brushes-and-knives|Essential Brushes and Knives]]
+- [[/Traditional Canvas & Painting Mediums/varnishing-and-preservation|Varnishing and Preservation]]
