@@ -16,6 +16,5 @@ Because acrylics dry quickly, working wet on wet requires speed or retarding med
 
 > "The adaptability of acrylic paint allows artists to transition seamlessly between bold abstract forms and fine graphic detail."
 
-![[acrylic-painting.webp.webp]]
-
+![[acrylic-painting.webp]]
 Before applying heavy acrylic washes, ensure your canvas is prepared correctly by exploring [[canvas-types-and-surfaces|Canvas Types and Surfaces]] and choosing the right tools in [[essential-brushes-and-knives|Essential Brushes and Knives]].
