@@ -1,6 +1,6 @@
 # Oil Painting Basics
 
-Oil painting is a traditional studio medium celebrated for its rich color depth, luminous glazes, and slow drying time. It makes blending a dream but the drying time can also be tedious. Unlike water-based mediums, oil paint consists of pigment suspended in a drying oil, typically linseed oil. This slow drying property allows artists to blend smooth gradients and make adjustments over extended working sessions. It works best when you have to start over in an area by scooping with a palette knives. 
+Oil painting is a traditional studio medium celebrated for its rich color depth, luminous glazes, and slow drying time. It makes blending a dream but the drying time can also be tedious. Unlike water based mediums, oil paint consists of pigment suspended in a drying oil, typically linseed oil. This slow drying property allows artists to blend smooth gradients and make adjustments over extended working sessions. It works best when you have to start over in an area by scooping with a palette knives. 
 
 ## Materials and Setup
 
@@ -17,5 +17,6 @@ The primary rule of oil painting is applying "fat over lean." Initial underpaint
 
 > "Oil painting requires patience; allowing each layer to cure properly ensures the artwork will endure for centuries."
 
+![Impasto Abstract Landscape Oil Painting with Wildflowers and Sunset Sky](https://www.etsy.com/listing/1087831525/landscape-abstract-original-oil-painting)
 
 Once your oil painting is complete and fully cured, protect the final surface by reading about [[varnishing-and-preservation|Varnishing and Preservation]].
