@@ -17,6 +17,6 @@ The primary rule of oil painting is applying "fat over lean." Initial underpaint
 
 > "Oil painting requires patience; allowing each layer to cure properly ensures the artwork will endure for centuries."
 
-![Impasto Abstract Landscape Oil Painting with Wildflowers and Sunset Sky](https://www.etsy.com/listing/1087831525/landscape-abstract-original-oil-painting)
+![[oil-landscape.webp.webp]]
 
 Once your oil painting is complete and fully cured, protect the final surface by reading about [[varnishing-and-preservation|Varnishing and Preservation]].
