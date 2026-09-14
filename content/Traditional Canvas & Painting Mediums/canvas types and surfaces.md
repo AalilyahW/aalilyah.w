@@ -16,5 +16,6 @@ Artists primarily choose between two natural woven textiles:
 
 > "A well-primed canvas with proper surface tension provides the foundation for every successful brushstroke."
 
+![[canvassurface.jpg]]
 
 After selecting your canvas format, apply your chosen medium using tools detailed in [[oil-painting-basics|Oil Painting Basics]] or [[acrylic-techniques|Acrylic Techniques]].

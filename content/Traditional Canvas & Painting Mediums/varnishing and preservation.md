@@ -18,5 +18,6 @@ Fine art varnishes should always be removable using mild solvents, allowing futu
 
 > "Varnishing is the final act of stewardship, safeguarding the vibrancy of your artwork for future generations."
 
+![[Vanishtypes.webp]]
 
 Learn more about building lasting paintings from the ground up in [[canvas-types-and-surfaces|Canvas Types and Surfaces]] and [[oil-painting-basics|Oil Painting Basics]]

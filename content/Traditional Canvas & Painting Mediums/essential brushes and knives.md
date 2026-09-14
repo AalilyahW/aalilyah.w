@@ -18,5 +18,6 @@ Flexible metal palette knives allow artists to apply unmixed paint in sculptural
 
 > "The right tool transforms the artist's gesture into precise physical form on the canvas."
 
+![[Brushes_and_paletteknives.avif]]
 
 Experiment with these application tools across various mediums detailed in [[acrylic-techniques|Acrylic Techniques]] and [[oil-painting-basics|Oil Painting Basics]].
