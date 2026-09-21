@@ -1,1 +1,0 @@
-Specific paint characteristics (oil, watercolor, acrylic, ink, pencil) and how they behave on canvas.
