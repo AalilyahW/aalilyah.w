@@ -1,10 +1,10 @@
-### Layer Strategy & Masks:
+*Analyzing layers, clipping masks, selection tools, and instant undo options versus permanent traditional paint marks and physical drying constraints.*
+### Layer Strategy & Masks
 
-Organizing artwork with independent layers, clipping masks, blend modes, and non-destructive adjustments.
+* Organizing artwork with independent layers, clipping masks, blend modes, and non-destructive adjustments.
+### Speed & Efficiency Features
 
-### Speed & Efficiency Features:
-
-Utilizing instant color fills, gesture shortcuts (two-finger undo), shortcuts, symmetrical drawing guides, and digital selection/transform tools.
+* Utilizing instant color fills, gesture shortcuts (two-finger undo), shortcuts, symmetrical drawing guides, and digital selection/transform tools.
 
 ---------------------------------
 #### Breakdown:

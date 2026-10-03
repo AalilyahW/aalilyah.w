@@ -1,10 +1,10 @@
-Working in digital additive RGB color spaces for screen displays versus mixing physical pigments in subtractive CMYK or palette environments.
-### RGB vs. CMYK/Subtractive Spaces:
+*Working in digital additive RGB color spaces for screen displays versus mixing physical pigments in subtractive CMYK or palette environments.*
+### RGB vs. CMYK/Subtractive Spaces
 
-Working in screen-native light (RGB) versus preparing digital art for physical pigment printing (CMYK/pantone).
-### Digital Palette Management:
+* Working in screen-native light (RGB) versus preparing digital art for physical pigment printing (CMYK/pantone).
+### Digital Palette Management
 
-Creating custom swatch palettes, utilizing eye-dropper color sampling, and harnessing color harmony wheels.
+* Creating custom swatch palettes, utilizing eye-dropper color sampling, and harnessing color harmony wheels.
 
 ---------------------------------
 #### Breakdown:

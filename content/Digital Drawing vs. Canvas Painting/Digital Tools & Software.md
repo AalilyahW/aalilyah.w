@@ -1,10 +1,10 @@
-The software an artist chooses is just as important. Understanding the differences between these tools can help artists choose a setup that works best for their individual style and creative process.
-### Hardware & Stylus Mechanics:
+*The software an artist chooses is just as important. Understanding the differences between these tools can help artists choose a setup that works best for their individual style and creative process.*
+### Hardware & Stylus Mechanics
 
-Pressure sensitivity, palm rejection, screen feel (matte vs. glass), and Apple Pencil/stylus calibration vs. traditional brush control.
-### Raster vs. Vector Applications:
+* Pressure sensitivity, palm rejection, screen feel (matte vs. glass), and Apple Pencil/stylus calibration vs. traditional brush control.
+### Raster vs. Vector Applications
 
-Understanding pixel-based drawing apps (Procreate, Photoshop) versus scalable vector workflows (Illustrator, Fresco).
+* Understanding pixel-based drawing apps (Procreate, Photoshop) versus scalable vector workflows (Illustrator, Fresco).
 
 ---------------------------------
 #### Breakdown:
