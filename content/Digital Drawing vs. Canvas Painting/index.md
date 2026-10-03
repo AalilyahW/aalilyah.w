@@ -18,3 +18,16 @@ On your local computer, this page corresponds to the file path: `Digital Drawing
 ## Related Categories
 
 Digital illustration tools and software complement classical studio methods. Read more in [[Traditional Canvas & Painting Mediums/index|Traditional Canvas & Painting Mediums]]. 
+
+
+### Key Comparison Areas
+* **[[Digital Tools & Software]]**: Hardware mechanics, stylus pressure sensitivity, and raster vs. vector engines (Procreate, Photoshop).
+* **[[Digital Workflow & Non Destructive Techniques]]**: Layer structures, clipping masks, blend modes, and reversible editing workflows.
+* **[[Tactile Feedback & Texture Simulation]]**: Brush engine dynamics, canvas grain overlays, and impasto light simulation vs. real paint viscosity.
+* **[[Color Theory & Display Environments]]**: Additive RGB screen light versus subtractive CMYK pigment dynamics, screen gamuts, and digital palettes.
+* **[[File Management, Export & Archival]]**: Resolution requirements (DPI), file export formats, and cloud archival strategies.
+
+----------
+
+## Related Categories
+* **[[Traditional Painting Techniques]]**: Physical canvas preparation, brush types, and paint characteristics.

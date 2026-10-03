@@ -22,7 +22,7 @@ Traditional canvas techniques lay the foundational principles for modern digital
 
 # Traditional Canvas & Painting Mediums
 
-Welcome to the traditional studio arts section. Explore the topics below to learn about studio practices, mediums, and preservation techniques:
+Welcome to the traditional arts section. Explore the topics below to learn about art practices, mediums, and preservation techniques:
 
 - [[/Traditional Canvas & Painting Mediums/oil-painting-basics|Oil Painting Basics]]
 - [[/Traditional Canvas & Painting Mediums/acrylic-techniques|Acrylic Techniques]]
