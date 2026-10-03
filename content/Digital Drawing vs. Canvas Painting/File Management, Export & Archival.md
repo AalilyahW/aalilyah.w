@@ -7,6 +7,7 @@ Setting up optimal DPI, canvas dimensions, and layer limits for crisp printing v
 Managing working files (.procreate, .psd), exporting standard formats (PNG, JPEG, PDF), and maintaining digital backups to prevent data loss.
 
 ---------------------------------
+#### Breakdown:
 Proper file management is super important in digital art because it helps protect the artwork throughout the entire process, from the first sketch to the final version. 
 
 When starting a project, artists need to choose the right canvas size and resolution. I learned that 300 DPI is commonly used for high-quality printing, while lower resolutions can work for artwork that will only be viewed online. It is helpful to save the original project in its native format, such as (.procreate) or (.psd), because this keeps the layers and other editable elements available for future changes. 

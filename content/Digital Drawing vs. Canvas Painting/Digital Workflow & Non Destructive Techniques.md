@@ -7,6 +7,7 @@ Organizing artwork with independent layers, clipping masks, blend modes, and non
 Utilizing instant color fills, gesture shortcuts (two-finger undo), shortcuts, symmetrical drawing guides, and digital selection/transform tools.
 
 ---------------------------------
+#### Breakdown:
 Digital art uses non-destructive workflow, which gives artists complete freedom to experiment without risking permanent loss of earlier work. The heart of this process is the layer hierarchy, where individual elements, linework, colors, and shading exist in isolated planes. 
 
 Using clipping masks and layer masks for precise targeted modifications, enabling shading or texturing within strict boundaries without altering the base drawing. An artist can add shading or texture to a certain area while keeping it within the original shape digital software offers flexible blend modes such as Multiply, Overlay, and Screen that calculate how light and color interact across stacked layers. 

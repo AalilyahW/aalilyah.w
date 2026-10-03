@@ -7,6 +7,7 @@ Working in screen-native light (RGB) versus preparing digital art for physical p
 Creating custom swatch palettes, utilizing eye-dropper color sampling, and harnessing color harmony wheels.
 
 ---------------------------------
+#### Breakdown:
 Understanding color is an important part of digital art because colors can look different on a screen than they do in physical artwork. Digital screens use the RGB (Red, Green, Blue) color system that creates colors by using light. 
 
 Physical artwork uses pigments, which are usually based on the CMYK (Cyan, Magenta, Yellow, and Black) color system and rely on reflected light. Digital art programs make it easier to work with color by letting artists quickly create palettes, sample colors with the eyedropper tool, and experiment with different color combinations. 
