@@ -1,5 +1,6 @@
 10/2/2026
-	*Analyzing layers, clipping masks, selection tools, and instant undo options versus permanent traditional paint marks and physical drying constraints.*
+
+Analyzing layers, clipping masks, selection tools, and instant undo options versus permanent traditional paint marks and physical drying constraints.
 ### Layer Strategy & Masks
 
 * Organizing artwork with independent layers, clipping masks, blend modes, and non-destructive adjustments.

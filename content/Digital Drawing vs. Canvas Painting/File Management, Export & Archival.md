@@ -1,5 +1,6 @@
 10/2/2026
-	*Managing resolution (DPI), file backup formats, and print exports versus preserving physical, one of a kind painted canvases.*
+
+Managing resolution (DPI), file backup formats, and print exports versus preserving physical, one of a kind painted canvases.
 ### Canvas Resolution & DPI
 
 * Setting up optimal DPI, canvas dimensions, and layer limits for crisp printing vs. web display.

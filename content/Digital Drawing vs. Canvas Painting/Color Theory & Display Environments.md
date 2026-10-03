@@ -1,6 +1,6 @@
 10/2/2026
 
-	*Working in digital additive RGB color spaces for screen displays versus mixing physical pigments in subtractive CMYK or palette environments.*
+Working in digital additive RGB color spaces for screen displays versus mixing physical pigments in subtractive CMYK or palette environments.
 ### RGB vs. CMYK/Subtractive Spaces
 
 * Working in screen-native light (RGB) versus preparing digital art for physical pigment printing (CMYK/pantone).

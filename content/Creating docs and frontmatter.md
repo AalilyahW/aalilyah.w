@@ -1,5 +1,5 @@
 ---
-title: Creating docs and frontmatter
+title:
 ---
 This is an example doc. Docs are Markdown files inside the `content/` directory.
 

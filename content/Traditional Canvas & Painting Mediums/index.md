@@ -1,7 +1,6 @@
 ---
 title: Traditional Canvas & Painting Mediums
 ---
-## Traditional Canvas & Painting Mediums
 10/2/2026
 ### What is this page?
 

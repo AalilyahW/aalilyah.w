@@ -1,6 +1,6 @@
 10/2/2026
 
-	Choosing the right support surface is critical to the longevity and texture of a painting. The surface texture, known as the tooth, determines how paint grips the substrate and moves under the brush.
+Choosing the right support surface is critical to the longevity and texture of a painting. The surface texture, known as the tooth, determines how paint grips the substrate and moves under the brush.
 
 ## Cotton Duck and Linen:
 

@@ -1,5 +1,6 @@
 10/2/2026
-	*Simulating natural media textures digitally through brush engines and grain overlays versus creating physical impasto, paint viscosity, and canvas weave.*
+
+Simulating natural media textures digitally through brush engines and grain overlays versus creating physical impasto, paint viscosity, and canvas weave.
 ### Brush Engine Customization 
 
 * Fine-tuning digital brush dynamics (grain, opacity jitter, wet mix simulation) to replicate traditional mediums.

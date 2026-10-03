@@ -1,7 +1,6 @@
 ---
 title: Digital Drawing vs. Canvas Painting
 ---
-# Digital Drawing vs. Canvas Painting
 10/2/2026
 ### What is this page?
 
