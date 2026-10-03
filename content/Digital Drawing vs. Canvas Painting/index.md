@@ -4,7 +4,7 @@ title: Digital Drawing vs. Canvas Painting
 10/2/2026
 ### What is this page?
 
-	This section explores the core differences, advantages, and trade-offs between creating artwork digitally on an IPad versus painting directly on a traditional canvas.
+This section explores the core differences, advantages, and trade-offs between creating artwork digitally on an IPad versus painting directly on a traditional canvas.
 
 On your local computer, this page corresponds to the file path: `Digital Drawing vs. Canvas Painting/index.md`.
 
