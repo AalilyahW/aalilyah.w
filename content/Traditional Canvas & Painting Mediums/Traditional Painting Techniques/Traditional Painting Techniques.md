@@ -1,1 +1,3 @@
+10/2/2026
+
 Traditional techniques build depth and structural strength into artwork. Artists showcase tonal values through underpainting before layering colors using transparent glazing or thick impasto textures. Wet on wet blending fluidly fuses connected pigments directly on the canvas surface. Managing drying times between layers prevents cracking and maintains paint integrity. Once completely cured, applying protective varnish guards the surface against dust, moisture, UV degradation, and yellowing, ensuring long-term archival care and color steadiness.

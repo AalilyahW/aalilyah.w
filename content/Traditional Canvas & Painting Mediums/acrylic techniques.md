@@ -1,6 +1,6 @@
-# Acrylic Techniques
+10/2/2026
 
-Acrylic paint is one of the most versatile and durable mediums available to modern artists. Formulated with pigment suspended in an acrylic polymer emulsion, it dries rapidly and becomes water resistant when cured. Artists like me can manipulate acrylics to mimic the delicate washes of watercolor or the heavy impasto textures of oil paint.
+	Acrylic paint is one of the most versatile and durable mediums available to modern artists. Formulated with pigment suspended in an acrylic polymer emulsion, it dries rapidly and becomes water resistant when cured. Artists like me can manipulate acrylics to mimic the delicate washes of watercolor or the heavy impasto textures of oil paint.
 
 ## Application Methods
 
@@ -17,4 +17,5 @@ Because acrylics dry quickly, working wet on wet requires speed or retarding med
 > "The adaptability of acrylic paint allows artists to transition seamlessly between bold abstract forms and fine graphic detail."
 
 ![[acrylic painting.webp]]
+
 Before applying heavy acrylic washes, ensure your canvas is prepared correctly by exploring [[canvas-types-and-surfaces|Canvas Types and Surfaces]] and choosing the right tools in [[essential-brushes-and-knives|Essential Brushes and Knives]].

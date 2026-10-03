@@ -1,6 +1,6 @@
-# Essential Brushes and Knives
+10/2/2026
 
-The interaction between paint and canvas relies heavily on the tools used to apply it. Selecting the appropriate combination of synthetic or natural brushes and palette knives gives artists complete control over texture and edge quality.
+	The interaction between paint and canvas relies heavily on the tools used to apply it. Selecting the appropriate combination of synthetic or natural brushes and palette knives gives artists complete control over texture and edge quality.
 
 ## Brush Shapes and Hair Types
 

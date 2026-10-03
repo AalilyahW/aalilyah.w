@@ -1,1 +1,3 @@
+10/2/2026
+
 Different mediums behave independently on canvas based on their binders and drying properties. **Acrylics** dry quickly into a durable, flexible, water-resistant film suitable for layering. **Oils** dry slowly, allowing smooth blending and rich depth. **Watercolors** re-solubilize with moisture, requiring porous, high-absorbency surfaces. Inks deliver vibrant, permanent washes with fluid lines, while pencils provide fine structural detail. *Each medium interacts distinctly with canvas texture, altering transparency, drying speed, surface sheen, and color intensity.*

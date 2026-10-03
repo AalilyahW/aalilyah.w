@@ -1,6 +1,6 @@
-# Canvas Types and Surfaces
+10/2/2026
 
-Choosing the right support surface is critical to the longevity and texture of a painting. The surface texture, known as the tooth, determines how paint grips the substrate and moves under the brush.
+	Choosing the right support surface is critical to the longevity and texture of a painting. The surface texture, known as the tooth, determines how paint grips the substrate and moves under the brush.
 
 ## Cotton Duck and Linen:
 
@@ -17,4 +17,5 @@ Artists primarily choose between two natural woven textiles:
 > "A well-primed canvas with proper surface tension provides the foundation for every successful brushstroke."
 
 ![[canvassurface.jpg]]
+
 After selecting your canvas format, apply your chosen medium using tools detailed in [[oil-painting-basics|Oil Painting Basics]] or [[acrylic-techniques|Acrylic Techniques]].

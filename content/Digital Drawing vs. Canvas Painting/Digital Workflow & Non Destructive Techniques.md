@@ -1,4 +1,5 @@
-*Analyzing layers, clipping masks, selection tools, and instant undo options versus permanent traditional paint marks and physical drying constraints.*
+10/2/2026
+	*Analyzing layers, clipping masks, selection tools, and instant undo options versus permanent traditional paint marks and physical drying constraints.*
 ### Layer Strategy & Masks
 
 * Organizing artwork with independent layers, clipping masks, blend modes, and non-destructive adjustments.
@@ -13,3 +14,6 @@
 3. Workflow is boosted by quick action gestures, precise selection tools, transformation controls, and unlimited undo histories. Unlike traditional painting, where structural changes require physically scraping or overpainting dried pigments, digital artists can modify composition, adjust color balance, and alter scale dynamics at any stage of production, encouraging creative risk-taking.
 
 ![[Layer-Tips-01.gif]]
+
+
+[[File Management, Export & Archival]]

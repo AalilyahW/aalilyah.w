@@ -1,4 +1,5 @@
-*The software an artist chooses is just as important. Understanding the differences between these tools can help artists choose a setup that works best for their individual style and creative process.*
+10/2/2026
+	*The software an artist chooses is just as important. Understanding the differences between these tools can help artists choose a setup that works best for their individual style and creative process.*
 ### Hardware & Stylus Mechanics
 
 * Pressure sensitivity, palm rejection, screen feel (matte vs. glass), and Apple Pencil/stylus calibration vs. traditional brush control.
@@ -14,3 +15,6 @@
 
 
 ![[media_1e8fe45d09040d1c6f0f7dd684aac560a4d3c3c13.gif]]
+![[tools.jpg]]
+
+[[Digital Workflow & Non Destructive Techniques]]

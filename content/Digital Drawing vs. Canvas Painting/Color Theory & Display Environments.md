@@ -1,4 +1,6 @@
-*Working in digital additive RGB color spaces for screen displays versus mixing physical pigments in subtractive CMYK or palette environments.*
+10/2/2026
+
+	*Working in digital additive RGB color spaces for screen displays versus mixing physical pigments in subtractive CMYK or palette environments.*
 ### RGB vs. CMYK/Subtractive Spaces
 
 * Working in screen-native light (RGB) versus preparing digital art for physical pigment printing (CMYK/pantone).
@@ -13,5 +15,6 @@
 3. One challenge with digital color is that the colors you see on your screen may not look exactly the same on another screen or when printed. Screen calibration, color profiles, such as sRGB and Display P3, can help keep colors more bright and consistent. Understanding these differences is important for making sure the colors and overall look of the artwork stay as close as possible to the artist's original idea.
 
 ![[digitalcolortheory.webp]]
- 
+
+[[Digital Tools & Software]]
  

@@ -1,6 +1,6 @@
-# Varnishing and Preservation
+10/2/2026
 
-Preserving traditional studio artwork requires protecting the finished paint layer from environmental damage, dust, moisture, and ultraviolet light exposure. Varnishing serves as the final defensive barrier for both oil and acrylic paintings.
+	Preserving traditional studio artwork requires protecting the finished paint layer from environmental damage, dust, moisture, and ultraviolet light exposure. Varnishing serves as the final defensive barrier for both oil and acrylic paintings.
 
 ## Functions of Picture Varnish
 
